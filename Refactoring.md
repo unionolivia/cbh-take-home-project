@@ -8,6 +8,6 @@ You've been asked to refactor the function `deterministicPartitionKey` in [`dpk.
 
 You will be graded on the exhaustiveness and quality of your unit tests, the depth of your refactor, and the level of insight into your thought process provided by the written explanation.
 
-## Your Explanation Here
-2.
-3. 
+## Your Explanation Here 
+1. A lot of IF-ELSE statement
+2. I introduced switch statement

@@ -45,6 +45,6 @@ This involve setting an estimate for the ticket:
 - Pulling from the Main
 - Creating a Branch
 - Creating a Unit Test
-- PR (Push Request)
+- PR (Pull Request)
 - Adding Reviewers
 - code Reviews
